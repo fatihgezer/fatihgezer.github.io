@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Fatih GEZER"
   pronouns         : # "she/her"  
-  bio              : "PhD Student"
+  bio              : "PhD Student in Economics"
   location         : "Boston, MA"
-  employer         : "Boston College"
-  uri              : "fatih.gezer@bc.edu" 
+  employer         : "<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>"
+  uri              : # "fatih.gezer@bc.edu" 
   email            : "fatih.gezer@bc.edu" 
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "fatihgezer"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "fatihgezer1"
+  instagram        : "fatihgezer.1"
   lastfm           : # Username
   linkedin         :  "fatih-gezer-806a9a158"
   mastodon         : # URL
