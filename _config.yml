@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Fatih Gezer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Fatih Gezer"
+description              : &description "Economics PhD Candidate"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Fatih GEZER"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Economics PhD Candidate"
+  location         : "Boston, MA"
+  employer         : "Boston College"
   uri              : # URL
   email            : "none@example.org" 
 
