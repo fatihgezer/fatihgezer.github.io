@@ -5,6 +5,6 @@
 
 
 
-[My Website](https://www.linkedin.com/in/fatih-gezer-806a9a158/)  <br />
+[My Website](https://www.fatihgezer.com/)  <br />
 [LinkedIn](https://www.linkedin.com/in/fatih-gezer-806a9a158/)  <br />
-[GitHub](https://www.linkedin.com/in/fatih-gezer-806a9a158/)  <br />
+
